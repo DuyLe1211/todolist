@@ -1,0 +1,8 @@
+html,
+* {
+	font-family: "Josefin Sans", sans-serif;
+}
+
+router-link:hover {
+	cursor: pointer;
+}
